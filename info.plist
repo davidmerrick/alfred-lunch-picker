@@ -27,7 +27,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Lunch</string>
+	<string>LunchRoulette</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -63,7 +63,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>lunch</string>
+				<string>lr</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -83,7 +83,7 @@
 				<key>subtext</key>
 				<string>Order lunch</string>
 				<key>title</key>
-				<string>Lunch</string>
+				<string>LunchRoulette</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
