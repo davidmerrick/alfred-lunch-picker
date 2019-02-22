@@ -1,5 +1,3 @@
-# Vevo Projects Alfred Workflow
+# Caviar Lunch Picker
 
-Opens Vevo project URLs in a browser. Currently supports Swagger, GoCD, Scribe, and Sentry.
-
-To add a new project, update the `projects.json` file.
+Picks a random place from Caviar to order food from out of a preset list of favorites.
